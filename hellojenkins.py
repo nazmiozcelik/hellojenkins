@@ -1,0 +1,2 @@
+a = "testJenkins"
+print (a)
